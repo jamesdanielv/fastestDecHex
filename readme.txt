@@ -1,3 +1,4 @@
+files created by james villeneuve but are really simple so prob have been done before. 
 This is the most efficient conversion from decimal to string hex i can find and create. it is a simple lookup table. it does take 512 bytes but for deeply nested loops where more than one char is read it is incredibly fast on 64bit arm neon. specifically tested on rock3328 (pine rock64)
 
 
