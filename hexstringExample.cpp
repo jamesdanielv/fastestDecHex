@@ -44,7 +44,7 @@ return charStore;
  * with O3 settings optimizations unsure if chronos breaks
  * Time taken by function: 0 microseconds
  * with itterations of 65536
-* an operations cycle is completed in 0.000000087600708s
+* 
  * /
  */ 
 //example 4
